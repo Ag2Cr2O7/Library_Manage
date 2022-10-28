@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+图书管理系统
+</name>
+</assembly>
+<members>
+<member name="T:图书管理系统.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:图书管理系统.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:图书管理系统.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.读者DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.管理员DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.借阅DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.类型DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.图书DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.读者Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.管理员Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.借阅Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.类型Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.图书Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.读者RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.管理员RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.借阅RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.类型RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSet.图书RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSetTableAdapters.读者TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSetTableAdapters.管理员TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSetTableAdapters.借阅TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSetTableAdapters.类型TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSetTableAdapters.图书TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:图书管理系统.图书馆DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(图书管理系统.图书馆DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:图书管理系统.图书馆DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(图书管理系统.图书馆DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:图书管理系统.图书馆DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(图书管理系统.图书馆DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:图书管理系统.图书馆DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:图书管理系统.图书馆DataSetTableAdapters.TableAdapterManager.UpdateAll(图书管理系统.图书馆DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:图书管理系统.图书馆DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

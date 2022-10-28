@@ -1,0 +1,51 @@
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.vbprojAssemblyReference.cache
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Form1.resources
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Form2.resources
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Form3.resources
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Form4.resources
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Resources.resources
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.vbproj.GenerateResource.cache
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.vbproj.CoreCompileInputs.cache
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\bin\Debug\图书管理系统.xml
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.exe
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.xml
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.pdb
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Form5.resources
+C:\Users\Xhj\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Form6.resources
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\bin\Debug\图书管理系统.xml
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.vbprojAssemblyReference.cache
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form1.resources
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form2.resources
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form3.resources
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form4.resources
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form5.resources
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form6.resources
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.Resources.resources
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.vbproj.GenerateResource.cache
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.vbproj.CoreCompileInputs.cache
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.exe
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.xml
+C:\Users\Xhj\Desktop\图书管理系统 - 副本\VB.NET\图书管理系统\obj\Debug\图书管理系统.pdb
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\bin\Debug\图书管理系统.exe.config
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\bin\Debug\图书管理系统.exe
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\bin\Debug\图书管理系统.pdb
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\bin\Debug\图书管理系统.xml
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.vbprojAssemblyReference.cache
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form1.resources
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form2.resources
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form3.resources
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form4.resources
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form5.resources
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.Form6.resources
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.Resources.resources
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.vbproj.GenerateResource.cache
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.vbproj.CoreCompileInputs.cache
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.exe
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.xml
+E:\2028向恒京图书管理系统\2028向恒京图书管理系统\源程序文件夹\VB.NET\图书管理系统\obj\Debug\图书管理系统.pdb
